@@ -2,7 +2,7 @@
 
 Este projeto implementa um sistema básico para uma locadora de veículos, com foco no cálculo de custos de aluguel, descontos e multas.
 
-##⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
 - Cálculo do custo de aluguel com base na quantidade de dias
 - Aplicação de descontos para aluguéis de longa duração
