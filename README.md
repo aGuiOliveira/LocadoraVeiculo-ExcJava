@@ -44,10 +44,6 @@ Este projeto implementa um sistema básico para uma locadora de veículos, com f
 
 Guilherme Oliveira Santana de Almeida
 
-## 📁 Licença
-
-Este projeto está licenciado sob a licença MIT.
-
 ## 👀 Observações
 
 1. Certifique-se de ter o JUnit 5 configurado no seu projeto para executar os testes.
