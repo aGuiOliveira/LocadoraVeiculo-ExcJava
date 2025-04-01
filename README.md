@@ -47,9 +47,8 @@ Guilherme Oliveira Santana de Almeida
 ## 📁 Licença
 
 Este projeto está licenciado sob a licença MIT.
-```
 
-## Observações
+## 👀 Observações
 
 1. Certifique-se de ter o JUnit 5 configurado no seu projeto para executar os testes.
 2. O código inclui tratamento de erros para valores inválidos (como diárias negativas ou zero dias de aluguel).
