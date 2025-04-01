@@ -1,8 +1,8 @@
-# Locadora de Veículos - Sistema Básico
+#🚗 Locadora de Veículos - Sistema Básico
 
 Este projeto implementa um sistema básico para uma locadora de veículos, com foco no cálculo de custos de aluguel, descontos e multas.
 
-## Funcionalidades
+##⚙️ Funcionalidades
 
 - Cálculo do custo de aluguel com base na quantidade de dias
 - Aplicação de descontos para aluguéis de longa duração
@@ -10,7 +10,7 @@ Este projeto implementa um sistema básico para uma locadora de veículos, com f
 - Descontos progressivos para aluguéis mais longos
 - Validação de entrada de dados
 
-## Como usar
+##📖 Como usar
 
 1. Clone o repositório:
    ```bash
@@ -29,7 +29,7 @@ Este projeto implementa um sistema básico para uma locadora de veículos, com f
    java -jar junit-platform-console-standalone.jar --class-path . --scan-class-path
    ```
 
-## Classes Principais
+##☕ Classes Principais
 
 - `Veiculo`: Representa um veículo disponível para aluguel
 - `VeiculoTest`: Contém os testes unitários para a classe Veiculo
@@ -40,11 +40,11 @@ Este projeto implementa um sistema básico para uma locadora de veículos, com f
 - Java 8 ou superior
 - JUnit 5 para testes
 
-## Autor
+##👨‍💻 Autor
 
 Guilherme Oliveira Santana de Almeida
 
-## Licença
+##📁 Licença
 
 Este projeto está licenciado sob a licença MIT.
 ```
